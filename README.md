@@ -1,1 +1,4 @@
 # PROJEK-UAS-PEMROGRAMAN-BERBASIS-PALTFORM
+#Nisya Lathifah (20240040087)
+#Rizki Kurniawan (20240040113)
+#Muhammad Luthfi Abdul Lathif (20240040088)
